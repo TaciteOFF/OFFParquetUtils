@@ -1,0 +1,234 @@
+## Si vous voulez supprimer des pays du fichier Parquet, attention à bien garder toutes les variantes observées pour ce pays !
+## Exemples de pays trouvés dans le fichier Parquet du 17/04/2025
+##
+en: france, fr: france, ca: franca, de: frankreich, en: french-polynesia, en: french-polynesia, en: polynesie-francaise, en: martinique
+en: germany, de: deutschland, de: německo, en: alemania, en: allemagne, fr: deutschland, sk: německo
+en: spain, de: espanha, de: スヘイン, en: espagne, en: espanha, es: espanha
+en: netherlands, de: nederland, en: nederland, nl: nederland, en: нидерланды, en: هولنده
+en: austria, de: autriche, en: austria
+en: poland, de: polónia, en: poland, en: polska
+en: czech-republic, de: république-tchèque, en: czech-republic, en: česko
+en: united-kingdom
+en: algeria, ca: argelia, en: algeria, en: algerie
+en: usa, en: saщ, en: estados-unidos, en: etats-unis, en: united-states, en: vereinigte-staaten-von-amerika, en: stati-uniti-d-america, en: stany-zjednoczone, en: 美国合衆国
+en: afghanistan, en: afghanistan
+en: aland-islands, en: aland-islands
+en: albania, en: albania
+en: american-samoa, en: american-samoa
+en: andorra, en: andorra, fr: andore
+en: angola, en: angola
+en: anguilla, en: anguilla
+en: antigua-and-barbuda, en: antigua-and-barbuda
+en: saudi-arabia, en: arabie-saoudite, en: السعودية
+en: argentina, en: argentina
+en: armenia, en: armenia
+en: aruba, en: aruba
+en: australia, en: australia, en: ประเทศออสเตรเลีย
+en: azerbaijan, en: azerbaijan
+en: bahrain, en: bahrain
+en: bangladesh, en: bangladesh
+en: barbados, en: barbados
+en: belarus, en: belarus
+en: belgium, en: belgica, en: belgie, en: belgien, en: belgique, en: belgium, fr: belgica, fr: belgie, fr: belgien, nl: belgie
+en: belize, en: belize
+en: benin, en: benin
+en: bermuda, en: bermuda
+en: bhutan, en: bhutan
+en: bolivia, en: bolivia
+en: bonaire, en: bonaire
+en: bosnia-and-herzegovina, en: bosnia-and-herzegovina
+en: botswana, en: botswana
+en: bouvet-island, en: bouvet-island
+en: brazil, en: brazil
+en: british-indian-ocean-territory, en: british-indian-ocean-territory
+en: british-virgin-islands, en: british-virgin-islands
+en: brunei, en: brunei
+en: bulgaria, bg: bugarska, en: bulgaria, en: bulgarien
+en: burkina-faso, en: burkina-faso
+en: burundi, en: burundi
+en: cambodia, en: cambodia
+en: cameroon, en: cameroon
+en: canada, en: canada, en: kanada, en: كندا
+en: cape-verde, en: cape-verde
+en: caribbean-netherlands, en: caribbean-netherlands
+en: cayman-islands, en: cayman-islands
+en: central-african-republic, en: central-african-republic
+en: chad, en: chad
+en: chile, en: chile
+en: china, en: china
+en: cocos-keeling-islands, en: cocos-keeling-islands
+en: colombia, en: colombia
+en: comoros, en: comoros
+en: cook-islands, en: cook-islands
+en: costa-rica, en: costa-rica
+en: cote-d-ivoire, en: cote-d-ivoire
+en: croatia, en: croatia, en: hrvatska
+en: cuba, en: cuba
+en: curacao, en: curacao
+en: cyprus, en: cyprus
+en: democratic-republic-of-the-congo, en: democratic-republic-of-the-congo
+en: denmark, en: denmark
+en: djibouti, en: djibouti
+en: dominica, en: dominica
+en: dominican-republic, en: dominican-republic
+en: ecuador, en: ecuador
+en: egypt, en: egypt
+en: el-salvador, en: el-salvador
+en: united-arab-emirates, en: emirats-arabes-unis, en: الإمارات-العربية-المتحدة
+en: equatorial-guinea, en: equatorial-guinea
+en: eritrea, en: eritrea
+en: estonia, en: estonia
+en: ethiopia, en: ethiopia
+en: faroe-islands, en: faroe-islands
+en: fiji, en: fiji
+en: finland, en: finland
+en: french-guiana, en: french-guiana
+en: gabon, en: gabon
+en: gambia, en: gambia
+en: georgia, en: georgia, en: georgien
+en: ghana, en: ghana
+en: gibraltar, en: gibraltar
+en: greece, en: greece, en: ελλάδα
+en: greenland, en: greenland
+en: grenada, en: grenada
+en: guadeloupe, en: guadeloupe
+en: guam, en: guam
+en: guatemala, en: guatemala
+en: guernsey, en: guernsey
+en: guinea, en: guinea
+en: guinea-bissau, en: guinea-bissau
+en: guyana, en: guyana
+en: haiti, en: haiti
+en: honduras, en: honduras
+en: hong-kong, en: hong-kong
+en: hungary, en: hungary
+en: iceland, en: iceland, en: iteland
+en: india, en: india
+en: indonesia, en: indonesia, en: indonesie
+en: iran, en: iran
+en: iraq, en: iraq
+en: ireland, en: ireland, en: irland, en: irlande
+en: isle-of-man, en: isle-of-man
+en: israel, en: israel, en: ישרא, en: ישראל
+en: italy, en: italien, en: italy
+en: jamaica, en: jamaica
+en: japan, en: japan, en: 日本
+en: jersey, en: jersey
+en: jordan, ar: jorsan, en: jordan, en: الاردن
+en: kazakhstan, en: kazakhstan, en: казахстан
+en: kenya, en: kenya
+en: kosovo, en: kosovo
+en: kuwait, en: kuwait
+en: kyrgyzstan, en: kyrgyzstan
+en: laos, en: laos
+en: latvia, en: latvia
+en: lebanon, en: lebanon, en: liban
+en: lesotho, en: lesotho
+en: liberia, en: liberia
+en: libya, en: libya
+en: liechtenstein, en: liechtenstein
+en: lithuania, en: lithuania
+en: luxembourg, en: luxembourg
+en: macau, en: macau
+en: madagascar, en: madagascar
+en: malawi, en: malawi
+en: malaysia, en: malaysia
+en: maldives, en: maldives
+en: mali, en: mali
+en: malta, en: malta
+en: morocco, ar: المغرب-🇲🇦, en: maroc, en: marruecos, en: المغرب, en: 🇲🇦, en: 𝚖𝚊𝚛𝚘𝚌
+en: marshall-islands, en: marshall-islands
+en: mauritania, en: mauritania
+en: mauritius, en: mauritius
+en: mayotte, en: mayotte
+en: mexico, en: mexico
+en: moldova, en: moldova, nl: moldavie
+en: monaco, en: monaco
+en: mongolia, en: mongolia
+en: montenegro, en: montenegro
+en: montserrat, en: montserrat
+en: mozambique, en: mozambique
+en: myanmar, en: myanmar
+en: namibia, en: namibia
+en: nepal, en: nepal
+en: new-caledonia, en: new-caledonia
+en: new-zealand, en: new-zealand
+en: nicaragua, en: nicaragua
+en: niger, en: niger
+en: nigeria, en: nigeria
+en: north-korea, en: north-korea
+en: north-macedonia, en: north-macedonia, en: republic-of-macedonia
+en: northern-mariana-islands, en: northern-mariana-islands
+en: norway, en: norway
+en: oman, en: oman
+en: pakistan, en: pakistan
+en: palau, en: palau
+en: palestinian-territories, en: palestinian-territories, en: state-of-palestine, en: فلسطين
+en: panama, en: panama
+en: papua-new-guinea, en: papua-new-guinea
+en: paraguay, en: paraguay
+en: peru, en: peru
+en: philippines, en: philippines
+en: portugal, en: portugal
+en: puerto-rico, en: puerto-rico
+en: qatar, en: qatar
+en: republic-of-the-congo, en: republic-of-the-congo
+en: reunion, en: la-reunion, en: reunion
+en: romania, en: romania, nl: roemenie
+en: russia, en: russia
+en: rwanda, en: rwanda
+en: saint-helena, en: saint-helena
+en: saint-kitts-and-nevis, en: saint-kitts-and-nevis, en: st-kitts-and-nevis
+en: saint-lucia, en: saint-lucia
+en: saint-martin, en: saint-martin
+en: saint-vincent-and-the-grenadines, en: saint-vincent-and-the-grenadines, en: st-vincent-and-grenadines
+en: samoa, en: samoa
+en: san-marino, en: san-marino
+en: sao-tome-and-principe, en: sao-tome-and-principe
+en: switzerland, en: schweiz, en: suisse, en: suiza, en: ประเทศสวิตเซอร์แลนด์, fr: schweiz, fr: suiza
+en: senegal, en: senegal
+en: serbia, en: serbia, en: serbie
+en: seychelles, en: seychelles
+en: sierra-leone, en: sierra-leone
+en: singapore, en: singapore, en: singapour
+en: sint-maarten, en: sint-maarten
+en: slovakia, en: slovakia
+en: slovenia, en: slovenia
+en: solomon-islands, en: solomon-islands
+en: somalia, en: somalia
+en: south-africa, en: south-africa
+en: south-korea, en: south-korea, en: 대한민국
+en: south-sudan, en: south-sudan
+en: sri-lanka, en: sri-lanka
+en: sudan, en: sudan
+en: suriname, en: suriname
+en: svalbard-and-jan-mayen, en: svalbard-and-jan-mayen
+en: sweden, en: sverige, en: sweden
+en: swaziland, en: swaziland
+en: syria, en: syria
+en: taiwan, en: taiwan
+en: tajikistan, en: tajikistan
+en: tanzania, en: tanzania
+en: thailand, en: thailand, en: ประเทศไทย-thai, hu: ประเทศไทย-thai, fr: ประเทศไทย-thai
+en: the-bahamas, en: the-bahamas
+en: timor-leste, en: timor-leste
+en: togo, en: togo
+en: tonga, en: tonga
+en: trinidad-and-tobago, en: trinidad-and-tobago
+en: tunisia, ar: تونس, en: tunisia, en: تونس
+en: turkey, en: turkey, en: turkiye, en: turquie
+en: turkmenistan, en: turkmenistan
+en: turks-and-caicos-islands, en: turks-and-caicos-islands
+en: uganda, en: uganda
+en: uruguay, en: uruguay
+en: uzbekistan, en: uzbekistan
+en: vanuatu, en: vanuatu
+en: vatican-city, en: vatican-city
+en: venezuela, en: venezuela
+en: vietnam, en: vietnam
+en: virgin-islands-of-the-united-states, en: virgin-islands-of-the-united-states
+en: wallis-and-futuna, en: wallis-and-futuna
+en: western-sahara, en: western-sahara
+en: yemen, en: yemen, en: اليمن-عمان-السعوديه
+en: zambia, en: zambia
+en: zimbabwe, en: zimbabwe
