@@ -1,2 +1,3 @@
 # OFFParquetUtils
-Scripts to play with OpenFoodFacts' parquet dumps
+
+Répertoire de petits scripts pour s'amuser avec l'export Parquet d'OpenFoodFacts.
